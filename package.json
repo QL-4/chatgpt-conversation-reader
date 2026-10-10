@@ -1,6 +1,16 @@
 {
   "name": "chatgpt-conversation-reader",
   "version": "0.1.0",
+  "description": "MCP server for reading ChatGPT conversations from chatgpt-conversation:// links",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QL-4/chatgpt-conversation-reader.git"
+  },
+  "keywords": ["mcp", "chatgpt", "codex", "conversation"],
+  "engines": {
+    "node": ">=20.18.1"
+  },
   "private": true,
   "type": "module",
   "bin": {

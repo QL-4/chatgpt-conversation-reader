@@ -119,3 +119,7 @@ npm test   # 编译并运行单元测试
 | `GET /conversations?limit&offset&order=updated` | 列出最近会话 |
 
 请求头带 `Authorization: Bearer <accessToken>` 和 `ChatGPT-Account-Id`。
+
+## 许可证
+
+[MIT](LICENSE)
